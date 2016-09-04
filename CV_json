@@ -1,0 +1,77 @@
+{
+	"contact_info":[
+						"Name":"Christine Raouf Farag",
+						"Address":"5 el basra st. el mohandessin Giza Egypt",
+						"email_addres":"christine.raouf.farag@gmail.com",
+						"mobile_number":"+20 1009262490",
+						"LinkedIn_link":"LinkedIn profile: https://eg.linkedin.com/in/christineraouf"
+
+					],
+
+	"career_objective":"Working as a software developer to follow my passion to build innovative platforms and pursue a highly
+rewarding career, seeking for a job in a challenging and healthy work environment where I can utilize my
+skills and knowledge efficiently for organizational growth and the benefit of the community",
+
+	"education":[
+					{
+						"Name":"Postgraduate Training Program: “9-Month Professional Diploma” by Information Technolgy Institute (ITI) Open Source Applications Development Track",
+						"From":"October 2014",
+						"To":"April 2015",
+					},
+
+					{
+						"Name":"Faculty of Engineering, Cairo University - Electronics and Communications Engineering- Very Good with honor degree",
+						"From":"2008",
+						"To":"2013",
+
+					},
+
+					{
+						"Name":"High School: Collège Saint Vincent de Paul- Secondary Education Certificate",
+						"From":"2005",
+						"To":"2008"
+					}
+				],
+	"Professional_Experience":[
+								{
+									"Name":"Technical Support Engineer I – EMC– May 2015 – Present",
+									"Description":
+													"
+														- Regularly provides technical support expertise in a complex information infrastructure environment
+														with the need to integrate EMC products and systems with other EMC and non-EMC computer
+														systems being operated by customers.-
+														- Ability to convey sophisticated ongoing technical system support is critical to, and an essential
+														component of, both EMC's business operations and the business operations of EMC customers.
+														- Applies technical support expertise to resolve customer issues. Customer requests may be received
+														by Support Centers through automated dial-homes, voice initiated technical calls from Customers,
+														Partners, remote maintenance calls, internal and field EMC employees, Chat and Web support calls.
+														- Works closely with peers and internal SMEs to increase knowledge and resolve customer issues.
+														- Identifies and provides resolutions to technical problems. Uses trouble-shooting tools, content and
+														analytical practices to help determine best way to resolve identified and unidentified problems.
+														- Writes KB articles for technical issues and how to solve them.
+														- Communicates with customers in English and French.
+													"
+
+								},
+
+								{
+									"Name":"Software (Javascript) Developer - Spime Sense Labs - March 2014 – September 2014",
+									"Description":
+													"
+														Master of Things (MoT) is an M2M visual IDE that introduces plug & play concepts into the Internet of Things world. MoT overcomes the main obstacle faced by industry experts and industrial engineers. It provides an easy and standard way to collect data from various sensors and makes the sensors data available inside its visual application development environment.
+														My work duties were:
+														- Building and designing the architecture of the MoT Platform architecture.
+														- Building the initial database design using MySQL.
+														- Building front end features using javascript.
+														- Cooperating with back end developers using Node.JS.
+														- Testing new features.
+																											"
+								}
+							],
+		"Technical Skills":"HTML/CSS/,Javascript,MySQL,MongoDB,AngularJS,NodeJS,Express,MEAN Stack,Restful APIs,PHP,Zend Framework,Python,Ruby,Perl,Version Control,Git,Red Hat,Bash Shell Scripting,C/C++,Java SE",
+
+		"Certificates":"VMware Certified Professional 6 – Cloud Management and Automation,VMware Certified Professional 6 – Data Center Virtualization,Implementation Engineer, Avamar Specialist Version 7.0 (EMCIE),Information Storage Associate Version 2 (EMCISA),DELF B2 Diplôme d'études en langue française.",
+
+		"Languages":"Arabic,English,French",
+		"Date_Birth":"16/07/1991"					
+}
